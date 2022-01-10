@@ -1,0 +1,23 @@
+.row{
+    background-color: blue;
+    min-height: 50px;
+}
+
+.box{
+    background-color: blue;
+    min-height: 50px;
+    border: 1px solid white;
+}
+
+.green{
+    background-color: green;
+    border: 1px solid blue;
+}
+
+.padding-10{
+    padding: 10px 10px;
+}
+
+.border-blue{
+    border: 1px solid blue;
+}
